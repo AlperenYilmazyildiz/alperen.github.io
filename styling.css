@@ -1,0 +1,54 @@
+header{background-color: black}
+    ul{list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: auto;
+        background-color: black;
+    }
+    #title{float: left;
+        display: block;
+        color:aliceblue;
+        font-size: x-large;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin: 20px 10px;}
+    li{float: left;}
+    li a{display: block;
+    color:aliceblue;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+     background-color:black;
+    padding: 20px 20px;
+    font-size: x-large;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    li a:hover{background-color: rgba(226, 198, 40, 0.788);}
+    
+     
+    #sec{border: solid rgba(247, 100, 100, 0.87) ;
+          margin: 90px 130px 60px 10px;/*top right bottom left*/
+          padding: 15px 40px 40px 30px;/*top right bottom left*/
+          background-color: rgba(88, 146, 223, 0.473)}
+     #p1{text-align: justify;
+         font-size: large;}
+    #sec2{border: solid rgba(247, 100, 100, 0.87) ;
+          margin: 40px 130px 60px 10px;/*top right bottom left*/
+          padding: 15px 40px 40px 30px;/*top right bottom left*/
+          background-color:  rgba(88, 146, 223, 0.473)}
+     #p2{text-align: justify;
+         font-size: large;}  
+     #sec3{border: solid rgba(247, 100, 100, 0.87) ;
+          margin: 40px 130px 60px 10px;/*top right bottom left*/
+          padding: 15px 40px 40px 30px;/*top right bottom left*/
+          background-color:  rgba(88, 146, 223, 0.473)}
+     #p3{text-align: justify;
+         font-size: large;} 
+    #sec4{border: solid rgba(247, 100, 100, 0.87) ;
+          margin: 40px 130px 60px 10px;/*top right bottom left*/
+          padding: 15px 40px 40px 30px;/*top right bottom left*/
+          background-color:  rgba(88, 146, 223, 0.473)}
+     #p4{text-align: justify;
+         font-size: large;} 
+     .foot{
+         background-color: black;
+         text-align: center;
+     }        

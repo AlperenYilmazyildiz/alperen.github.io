@@ -1,0 +1,36 @@
+body{background-color:wheat;}
+    header{background-color:rgba(247, 100, 100, 0.87);}
+    .pp img
+    {position: relative;
+     margin-left: 20px;
+     margin-top: 18px;}
+     .pp img{position: relative;
+        left: 1cm;}
+        .pp pre
+    { border-radius: 15px  ;
+      background-color: rgba(12, 82, 10, 0.836);
+      max-width: 750px;
+      padding-top: 10px;
+      padding-bottom: 10px; 
+      color:gainsboro;
+      font-size: x-large;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin-top:0px;
+      margin-left: 38px;}
+     .pp a:link,a:visited{
+     border-radius: 6px;
+     background-color: rgba(194, 31, 31, 0.836);
+     color: aliceblue;
+     padding-top: 3px;
+     padding-bottom: 3px;
+     text-decoration: none; 
+     text-align: center;
+     display: inline-block;
+    } 
+    .pp a:hover{
+     background-color: rgba(226, 198, 40, 0.788);}
+     p{text-align: justify;
+       font-size: 20px;}   
+       .foot{
+         background-color: black;
+         text-align: center;}
